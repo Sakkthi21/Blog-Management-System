@@ -522,5 +522,3 @@ I add the Authorization header with the value Bearer <your_token> for authentica
 
 I click "Send" to test the endpoint.
 
-Live URL
-The live URL of my deployed application is: <your-deployed-url>
